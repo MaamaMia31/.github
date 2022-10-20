@@ -1,5 +1,6 @@
 #  OpInCo Community
 
+![opinco header](https://user-images.githubusercontent.com/75828655/197010261-8585e0f8-8b16-45dd-8cab-19e9cf849242.jpg)
 
 ## About Us
 [OplnCo](https://opinco.vercel.app/) previously known as Devstucom represents Open Inclusive Collaborative. We as a community help our fellow students build skills
@@ -14,7 +15,10 @@ learn about the evolving world of technology and cultivate a sense of communityÂ
 [![youtube-opinco](https://img.shields.io/badge/-YouTube-black?style=flat-square&logo=YouTube)](https://www.youtube.com/c/OpInCoCommunity)
 
 ## Become a Member: <br>
-Become a member of Organization by creating a `Issue` in [Support Repository](https://github.com/OpInCo-Community/support) 
+<ul>
+  <li>Become a member of Organization by creating an `Issue` in [Support Repository](https://github.com/OpInCo-Community/support) </li>
+  <li>Follow our opinco organisation to stay tuned with everything!</li>
+</ul>
 
 ## Our Contributors <br>
 
@@ -30,4 +34,3 @@ Become a member of Organization by creating a `Issue` in [Support Repository](ht
 - [Jatin Agrawal](https://github.com/jatin41)
 - [sushmita](https://github.com/N-sush)
 - [Vaishnavi Satone](https://github.com/vasihnavi)
-
